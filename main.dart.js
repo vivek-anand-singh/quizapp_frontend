@@ -50073,7 +50073,7 @@ A.Ib.prototype={
 ow(){var s=0,r=A.P(t.jX),q,p,o
 var $async$ow=A.Q(function(a,b){if(a===1)return A.M(b,r)
 while(true)switch(s){case 0:s=3
-return A.T(A.al3(A.eq("/api/questions")),$async$ow)
+return A.T(A.al3(A.eq("https://quiz-app-api-ify7.onrender.com/api/questions")),$async$ow)
 case 3:o=b
 if(o.b===200){p=J.jf(B.bN.cJ(A.akR(A.ajd(o.e).c.a.i(0,"charset")).cJ(o.w)),new A.Ic(),t.m2)
 q=A.U(p,!0,p.$ti.h("ae.E"))
